@@ -17,6 +17,6 @@ ul li input[type="text"] {
   display: none;
 }
 
-ul li.edit-mode label {
+ul li.main-edit-mode label {
   display: none;
 }
